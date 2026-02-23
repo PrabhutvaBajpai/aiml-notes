@@ -58,8 +58,7 @@ Y=b+m1​X1​+m2​X2​+m3​X3​+⋯+mn​Xn​
 ### Polynomial Regression
 
 When the relationship between X and Y is not linear, so instead of plotting the best fit line, we plot a curve
-![[Pasted image 20260223110225.png]]
-
+<img width="397" height="61" alt="image" src="https://github.com/user-attachments/assets/ca64a244-3601-46ab-9381-ad5ee50751a8" />
 
 ### Ridge Regression
 Linear regression + L2 regularization (penalty)
