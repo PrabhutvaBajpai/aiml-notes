@@ -13,28 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "AIML/MLBasics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
-            }
-          }
-        ]
-      },
-      {
-        "id": "def50ba2e050a5d4",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "77cfdb9feace65c3",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "MLBasics"
             }
           }
         ]
@@ -94,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4bf716544f79b8a4",
@@ -110,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "AIML/MLBasics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks for MLBasics"
             }
           },
           {
@@ -129,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "AIML/MLBasics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              "title": "Outgoing links from MLBasics"
             }
           },
           {
@@ -172,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "AIML/MLBasics.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline of MLBasics"
             }
           }
         ]
@@ -201,8 +186,19 @@
   },
   "active": "3fd302c112118cd6",
   "lastOpenFiles": [
-    "AIML/MLBasics.md",
+    "Pasted image 20260223121104.png",
+    "Pasted image 20260223115638.png",
+    "Pasted image 20260223115620.png",
+    "Pasted image 20260223115559.png",
+    "Pasted image 20260223115525.png",
+    "Pasted image 20260223115441.png",
+    "Pasted image 20260223114450.png",
+    "Pasted image 20260223112916.png",
+    "Pasted image 20260223111305.png",
+    "Pasted image 20260223110225.png",
+    "Pasted image 20260223102512.png",
     "Welcome.md",
+    "AIML/MLBasics.md",
     "Untitled",
     "Untitled 1",
     "AIML"
